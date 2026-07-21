@@ -1,6 +1,0 @@
-test,value,tolerance_or_threshold,passed
-det(Fg)=Jg,2.22044604925e-16,1e-12,True
-free-growth stress,0,1e-10,True
-mean-stress relaxation ratio,3.93848518766e-08,0.03,True
-positive exponential update,0.00673794699909,0,True
-deviatoric stress retained,0.484949860516,0.1,True

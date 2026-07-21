@@ -1,6 +1,0 @@
-check,value,threshold,relation,passed
-reproducibility,0.0,0.0,<=,True
-orientation_error_deg,0.16875601081520317,3.0,<=,True
-aligned_order,0.9994762656251479,0.95,>=,True
-orientation_norm_error,2.220446049250313e-16,1e-06,<=,True
-synthetic_flag,1.0,1.0,>=,True

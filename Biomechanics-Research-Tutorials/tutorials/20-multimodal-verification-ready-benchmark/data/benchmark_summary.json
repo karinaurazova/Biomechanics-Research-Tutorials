@@ -1,9 +1,0 @@
-{
-  "tutorial": 20,
-  "name": "Multimodal Verification-Ready Synthetic Benchmark",
-  "n_segmentation_methods": 6,
-  "n_orientation_methods": 4,
-  "n_parameter_scenarios": 4,
-  "best_dice": 0.7952823691460055,
-  "best_parameter_error": 0.702318291169518
-}

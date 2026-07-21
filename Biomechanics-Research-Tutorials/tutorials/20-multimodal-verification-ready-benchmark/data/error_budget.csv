@@ -1,4 +1,0 @@
-stage,metric,value,interpretation
-segmentation,best_dice,0.7952823691460055,mask agreement
-orientation,best_orientation_mae_deg,3.2276884612365837,axial direction recovery
-inverse_mechanics,best_relative_parameter_error,0.702318291169518,material parameter recovery

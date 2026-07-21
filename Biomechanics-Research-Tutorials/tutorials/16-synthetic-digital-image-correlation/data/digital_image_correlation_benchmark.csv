@@ -1,7 +1,0 @@
-metric,value,threshold,passed
-translation_vector_rmse,0.03682592241,0.25,true
-analytic_exx_error,2.081668171e-17,1e-10,true
-affine_du_dx_error,0.0001023168897,0.012,true
-forward_backward_median,0.01841495522,0.35,true
-noise_increases_error,0.00801061984,0,true
-affine_normalized_score,0.9998021213,0.9,true

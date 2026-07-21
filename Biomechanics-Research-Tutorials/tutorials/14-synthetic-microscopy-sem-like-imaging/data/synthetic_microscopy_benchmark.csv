@@ -1,7 +1,0 @@
-metric,value,threshold,rule,passed
-fluorescence_psnr,32.81991843105914,25.0,min,True
-fluorescence_ssim,0.998126533640298,0.85,min,True
-brightfield_ssim,0.9507550030372136,0.9,min,True
-sem_ssim,0.8543784595716954,0.82,min,True
-fib_sem_ssim,0.6552618269867145,0.6,min,True
-dataset_mask_fraction,0.433837890625,0.01,min,True

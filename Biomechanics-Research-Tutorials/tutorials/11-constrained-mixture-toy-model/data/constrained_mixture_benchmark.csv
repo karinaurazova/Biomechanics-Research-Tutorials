@@ -1,5 +1,0 @@
-check,value,tolerance,passed
-homeostatic_mass_error,0.0022171127162744497,0.025,True
-pressure_collagen_gain,0.010488116528307723,0.005,True
-positive_mass,0.0,0.0,True
-initial_stress_sum,0.0,1e-10,True

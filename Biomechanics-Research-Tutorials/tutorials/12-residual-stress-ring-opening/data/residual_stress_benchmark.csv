@@ -1,8 +1,0 @@
-test,value,criterion,passed
-inner radial traction,5.0606112182716156e-14,1e-06,True
-outer radial traction,0.0,1e-08,True
-incompressibility,1.1102230246251565e-16,1e-10,True
-strip force residual,1.0818277697277613e-18,1e-08,True
-strip moment residual,0.0,1e-08,True
-stress homogenization,0.05938873157052006,1.0,True
-multilayer finite fields,0.0,0.0,True
