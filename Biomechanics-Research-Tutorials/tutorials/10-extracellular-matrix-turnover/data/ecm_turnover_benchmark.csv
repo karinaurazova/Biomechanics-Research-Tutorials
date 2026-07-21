@@ -1,0 +1,6 @@
+test,value,reference,error,tolerance,passed
+survival_half_life,0.5,0.5,0.0,1e-12,True
+cohort_homogenized,0.9999995308077678,1.0,4.691922321775621e-07,0.01,True
+mass_balance,0.0,0.0,0.0,0.005,True
+crosslink_bounds,0.0,0.0,0.0,1e-12,True
+inflammation_response,1.1126640693425704,0.0,0.0,1e-12,True

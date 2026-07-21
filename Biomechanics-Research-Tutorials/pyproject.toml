@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "biomechanics-research-tutorials"
+version = "1.0.0"
+description = "Reproducible educational tutorials in computational biomechanics"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Karina Urazova"}
+]
+keywords = [
+  "biomechanics",
+  "soft-tissue mechanics",
+  "remodeling",
+  "mechanobiology",
+  "education"
+]
+dependencies = [
+  "numpy>=1.24",
+  "matplotlib>=3.7",
+  "scipy>=1.10",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.4",
+  "jupyter>=1.0",
+  "jupyterlab>=4.0",
+  "ipykernel>=6.0",
+  "nbformat>=5.9",
+  "ruff>=0.4",
+]
+docs = [
+  "mkdocs>=1.5",
+  "mkdocs-material>=9.5",
+]
+
+[project.urls]
+Homepage = "https://github.com/karinaurazova/Biomechanics-Research-Tutorials"
+Repository = "https://github.com/karinaurazova/Biomechanics-Research-Tutorials"
+Issues = "https://github.com/karinaurazova/Biomechanics-Research-Tutorials/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests", "tutorials"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint.per-file-ignores]
+"*.ipynb" = ["E402"]

@@ -1,0 +1,16 @@
+{
+  "tutorial": 23,
+  "n_samples": 950,
+  "best_model_by_rmse": "quadratic",
+  "targeted_outputs": [
+    "C11",
+    "C22",
+    "C12",
+    "C66",
+    "C16",
+    "C26",
+    "sxx",
+    "syy",
+    "sxy"
+  ]
+}

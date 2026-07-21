@@ -1,0 +1,10 @@
+{
+  "tutorial": 21,
+  "title": "Finite-Element Growth Model",
+  "n_nodes": 247,
+  "n_elements": 432,
+  "n_dofs": 494,
+  "final_residual_norm": 1.1698175316257409e-14,
+  "final_mean_trace_stress": 8.820105140077632e-15,
+  "final_mean_fiber_stress": -0.014868732377927725
+}

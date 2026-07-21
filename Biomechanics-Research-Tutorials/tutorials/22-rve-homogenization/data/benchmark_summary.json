@@ -1,0 +1,14 @@
+{
+  "tutorial": 22,
+  "title": "RVE Homogenization",
+  "n_nodes": 225,
+  "n_elements": 392,
+  "fiber_volume_fraction": 0.2282921035157019,
+  "pore_fraction": 0.5051020408163265,
+  "periodic_C11": 64.5294848662326,
+  "periodic_C22": 58.260108961433076,
+  "periodic_C66": 21.82963847649286,
+  "periodic_anisotropy_ratio": 1.4280423959886357,
+  "max_hill_mandel_error": 1.3049764938932236e-14,
+  "max_reduced_residual_norm": 9.075973660329205e-13
+}

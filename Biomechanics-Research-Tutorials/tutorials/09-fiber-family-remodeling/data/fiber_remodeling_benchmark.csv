@@ -1,0 +1,7 @@
+test,metric,tolerance,passed
+ODF normalization,2.220446049250313e-16,1e-05,True
+principal cue,0.0,1e-12,True
+direct alignment,0.3752654230374172,1.0,True
+ODF alignment,2.850112172186797,5.0,True
+half-life survival,0.0,1e-12,True
+recruitment monotonicity,0.0,1e-10,True

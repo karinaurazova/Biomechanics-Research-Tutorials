@@ -1,0 +1,20 @@
+# Происхождение рисунков
+
+Все рисунки пересоздаются командой `python tutorials/05-structure-tensor-orientation/reproduce.py`.
+
+| Результат | Сценарий |
+|---|---|
+| `synthetic_gallery.png` | `experiments/synthetic_gallery.py` |
+| `pipeline_steps.png` | `experiments/pipeline_steps.py` |
+| `known_angle_benchmark.png` | `experiments/known_angle_benchmark.py` |
+| `noise_scale_map.png` | `experiments/noise_scale_map.py` |
+| `coherence_threshold.png` | `experiments/coherence_threshold.py` |
+| `curved_field.png` | `experiments/curved_field.py` |
+| `piecewise_domains.png` | `experiments/piecewise_domains.py` |
+| `crossing_failure.png` | `experiments/crossing_failure.py` |
+| `orientation_statistics.png` | `experiments/orientation_statistics.py` |
+| `illumination_robustness.png` | `experiments/illumination_robustness.py` |
+| `boundary_artifacts.png` | `experiments/boundary_artifacts.py` |
+| `benchmark_summary.png` | `experiments/benchmark_summary.py` |
+
+Русские файлы имеют суффикс `_ru` и используют те же численные данные.
