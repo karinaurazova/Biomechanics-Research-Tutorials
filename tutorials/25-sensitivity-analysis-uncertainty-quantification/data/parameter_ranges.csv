@@ -1,0 +1,9 @@
+name,nominal,lower,upper,unit,description
+matrix_modulus,42.0,30.0,58.0,kPa,matrix-dominated small-strain modulus
+fibre_gain,4.2,2.4,6.8,-,multiplicative stiffness gain produced by aligned fibres
+fibre_fraction,0.44,0.22,0.66,-,area or volume fraction occupied by load-bearing fibres
+orientation_deg,26.0,-10.0,62.0,deg,dominant fibre direction measured from the loading axis
+concentration,5.0,1.1,12.0,-,orientation concentration parameter; larger means less dispersion
+connectivity,0.72,0.35,0.96,-,dimensionless continuity of the fibre network
+load_scale,1.0,0.72,1.28,-,multiplicative uncertainty in the applied macroscopic strain
+boundary_compliance,0.08,0.0,0.22,-,loss of effective strain due to compliant grips or boundary error

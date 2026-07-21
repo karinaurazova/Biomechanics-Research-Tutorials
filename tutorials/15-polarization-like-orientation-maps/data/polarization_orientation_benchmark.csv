@@ -1,0 +1,6 @@
+check,value,target,passed
+median_quadrature_error_deg,0.7703223404985347,3.5,True
+p95_quadrature_error_deg,4.285476849956989,15.0,True
+finite_fraction,1.0,0.999,True
+positive_confidence_fraction,1.0,0.99,True
+metadata_synthetic,1.0,1.0,True
