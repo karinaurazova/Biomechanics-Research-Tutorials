@@ -1,17 +1,10 @@
-> «Выше закона может быть только любовь, выше права — лишь милость, выше справедливости — лишь прощение. Многое на свете имеет предел, но нет предела милосердию».
->
-> — Патриарх Алексий II
->
 > “Above law there can only be love; above right, only mercy; above justice, only forgiveness. Much in this world has limits, but mercy has no limit.”
-
+> — Patriarch Alexy II
 [English](README.md) | [Русский](README.ru.md)
 
 # Biomechanics Research Tutorials
 
 **Biomechanics Research Tutorials** is a reproducible educational repository on computational biomechanics of soft tissues.  It contains 25 self-contained tutorials that connect biological motivation, mathematical models, numerical methods, Python implementations, tests, synthetic data, figures and bilingual teaching notes.
-
-Repository: `https://github.com/karinaurazova/Biomechanics-Research-Tutorials`
-Author: **Karina Urazova**
 
 ## What this repository is for
 
