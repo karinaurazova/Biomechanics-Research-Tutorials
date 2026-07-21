@@ -74,11 +74,7 @@ Biomechanics-Research-Tutorials/
 
 ## Визуальная и языковая политика
 
-Репозиторий двуязычный.  Английские и русские материалы используют одни и те же вычисления, код и численные результаты.  Рисунки и GIF-анимации хранятся как локализованные пары, если в них есть поясняющие подписи.  См. [LANGUAGE_POLICY.ru.md](LANGUAGE_POLICY.ru.md), [VISUAL_GALLERY.ru.md](VISUAL_GALLERY.ru.md) и [VISUAL_AUDIT.ru.md](VISUAL_AUDIT.ru.md).
-
-![Roadmap репозитория](assets/shared-figures/full_repository_roadmap_ru.png)
-
-![Обзор репозитория](assets/shared-figures/repository_walkthrough_ru.gif)
+Репозиторий двуязычный.  Английские и русские материалы используют одни и те же вычисления, код и численные результаты.  См. [LANGUAGE_POLICY.ru.md](LANGUAGE_POLICY.ru.md [V)
 
 ## Образовательные траектории
 
@@ -111,8 +107,6 @@ Biomechanics-Research-Tutorials/
 - [START_HERE.ru.md](START_HERE.ru.md) — первые шаги для новых пользователей.
 - [TUTORIAL_INDEX.ru.md](TUTORIAL_INDEX.ru.md) — компактный индекс всех tutorials.
 - [ROADMAP.ru.md](ROADMAP.ru.md) — образовательная дорожная карта.
-- [VISUAL_GALLERY.ru.md](VISUAL_GALLERY.ru.md) — галерея рисунков и GIF.
-- [VISUAL_AUDIT.ru.md](VISUAL_AUDIT.ru.md) — сводка покрытия визуальными материалами.
 - [RELEASE_NOTES_v1.0.0.ru.md](RELEASE_NOTES_v1.0.0.ru.md) — публичные заметки к релизу.
 - [workshop/README.ru.md](workshop/README.ru.md) — материалы мастер-классов.
 
