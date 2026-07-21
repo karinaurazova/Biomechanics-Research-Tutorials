@@ -71,11 +71,7 @@ The package `biomechanics_tutorials` is local to this repository.  It is not an 
 
 ## Visual and language policy
 
-The repository is bilingual.  English and Russian materials share the same computations, code and numerical results.  Figures and animations are stored as localized pairs whenever they contain explanatory labels.  See [LANGUAGE_POLICY.md](LANGUAGE_POLICY.md), [VISUAL_GALLERY.md](VISUAL_GALLERY.md) and [VISUAL_AUDIT.md](VISUAL_AUDIT.md).
-
-![Repository roadmap](assets/shared-figures/full_repository_roadmap.png)
-
-![Repository walkthrough](assets/shared-figures/repository_walkthrough.gif)
+The repository is bilingual.  English and Russian materials share the same computations, code and numerical results.  See [LANGUAGE_POLICY.md](LANGUAGE_POLICY.md)
 
 ## Learning paths
 
@@ -108,8 +104,6 @@ Tutorial outputs are educational computational demonstrations.  They must not be
 - [START_HERE.md](START_HERE.md) — first steps for new users.
 - [TUTORIAL_INDEX.md](TUTORIAL_INDEX.md) — compact index of all tutorials.
 - [ROADMAP.md](ROADMAP.md) — educational roadmap.
-- [VISUAL_GALLERY.md](VISUAL_GALLERY.md) — figure and GIF gallery.
-- [VISUAL_AUDIT.md](VISUAL_AUDIT.md) — visual-asset coverage summary.
 - [RELEASE_NOTES_v1.0.0.md](RELEASE_NOTES_v1.0.0.md) — public release notes.
 - [workshop/README.md](workshop/README.md) — reusable master-class materials.
 
